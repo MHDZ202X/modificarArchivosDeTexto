@@ -1,0 +1,10 @@
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\bin\Debug\AbrirModificarArchivoTipoTexto.exe.config
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\bin\Debug\AbrirModificarArchivoTipoTexto.exe
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\bin\Debug\AbrirModificarArchivoTipoTexto.pdb
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.csprojAssemblyReference.cache
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.Form1.resources
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.Properties.Resources.resources
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.csproj.GenerateResource.cache
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.csproj.CoreCompileInputs.cache
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.exe
+C:\Users\costi\source\repos\AbrirModificarArchivoTipoTexto\AbrirModificarArchivoTipoTexto\obj\Debug\AbrirModificarArchivoTipoTexto.pdb
